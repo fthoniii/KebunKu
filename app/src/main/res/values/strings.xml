@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KebunKu</string>
+    <string name="sign_in">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="create_an_account">Buat Akun Baru</string>
+    <string name="register">Registrasi</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="already_have_an_account">Sudah Mempunyai Akun?</string>
+    <string name="my_plants">Tanamanku</string>
+    <string name="add_new_plant">Tambah Tanaman Baru</string>
+    <string name="add_plants">Tambah Tanaman</string>
+    <string name="plant_name">Nama Tanaman</string>
+    <string name="watering_period_in_days">Siram dalam (Satuan Hari)</string>
+    <string name="set_time">Set Waktu</string>
+    <string name="next">Selanjutnya:</string>
+    <string name="plant_reminder_notification_channel_id">plant reminder channel</string>
+    <string name="long_click_to_delete">Tahan Recycler view untuk menghapus data!</string>
+</resources>
